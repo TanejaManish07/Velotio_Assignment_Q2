@@ -1,0 +1,3 @@
+line 1 of file 4
+line 2
+line 3
